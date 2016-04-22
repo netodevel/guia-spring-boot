@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:th="http://www.thymeleaf.org">
+	<head>
+		<link rel="stylesheet" th:href="@{css/bootstrap.css}" />
+		<script type="text/javascript" th:src="@{js/bootstrap.js}"></script>
+	</head>
+	<body>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-6">
+						<form class="form-signin">
+							<h2 class="form-signin-heading">Acesse sua conta</h2>
+							<label for="inputEmail" class="sr-only">E-mail</label> <input
+								type="text" class="form-control" required="required"
+								placeholder="Email" name="username" /> <label for="inputPassword"
+								class="sr-only">Password</label> <input required="required"
+								type="password" name="password" class="form-control"
+								placeholder="Senha" />
+							<div class="form-group">
+								<label> <a 
+									style="font-size: 13px;">Esqueceu sua senha ?</a>
+								</label>
+							</div>
+							<button class="btn btn-lg btn-primary btn-block" type="submit">Entrar</button>
+							<button th:if="${validation}" class="btn btn-lg btn-primary btn-block" type="submit">Cancelar</button>
+							<br /> <span>Ainda não é registrado? <a>Registre-se agora</a></span>
+						</form>
+				</div>
+			</div>
+				<div class="row">
+					<hr/>
+					<table id="myTable" class="table table-condensed table-hover">
+						<caption>Each Exemplo</caption>
+						<thead>
+							<tr>
+								<th class="text-left col-md-1">Name</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr th:each="lista : ${list}">
+								<td th:text="${lista}" class="text-left"></td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+		</div>	
+	</body>	
+</html>
