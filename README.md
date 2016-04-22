@@ -5,5 +5,5 @@
     
     
     
-* <b>Hello World</b> - [Artigo](https://medium.com/@josevieiraneto/produtividade-com-spring-boot-54b624e5248b#.wba4ckiaj), [Código](https://github.com/NetoDevel/SpringBootMedium/tree/master/HelloWorld)
-* <b>Configurando Thymeleaf</b> -
+* <b>Hello World</b> - [Artigo](https://medium.com/@josevieiraneto/produtividade-com-spring-boot-54b624e5248b#.wba4ckiaj)
+* <b>Configurando Thymeleaf</b> - [Artigo](https://medium.com/@josevieiraneto/produtividade-com-spring-boot-2-2a47c8979bc8#.36zzqutnw)
