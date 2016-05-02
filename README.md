@@ -11,3 +11,5 @@
 * <b> Spring Data JPA </b> -
 * <b> Login com Facebook </b> -
 * <b> CRUD </b> -
+* <b> JUnit / Mock </b> -
+* <b> API Rest </b> -
