@@ -10,6 +10,7 @@
 * <b> Arquitetura do projeto </b> - [Artigo](https://medium.com/@oandersonbm/spring-boot-estrutura-do-c%C3%B3digo-5fafa2f39f5d#.tst8fva3o)
 * <b> Ferramenta de desenvolvimento </b> - [Artigo](https://medium.com/@oandersonbm/spring-boot-developer-tools-bbac76a4742f#.mqk1s47i9)
 * <b> Push Notifications SSE </b> -[Artigo](https://medium.com/@josevieiraneto/push-notifications-com-server-sent-events-spring-boot-c2b7ee6febe9#.pacf3seh3)
+* <b> Nginx e Spring Boot </b> - [Artigo](https://medium.com/@josevieiraneto/nginx-e-spring-boot-ecfb9575433e)
 
 
 #TODO:
