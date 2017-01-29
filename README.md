@@ -12,6 +12,7 @@ Alguns artigos utilizando Spring Boot
 * <b> Push Notifications SSE </b> -[Artigo](https://medium.com/@josevieiraneto/push-notifications-com-server-sent-events-spring-boot-c2b7ee6febe9#.pacf3seh3)
 * <b> Nginx e Spring Boot </b> - [Artigo](https://medium.com/@josevieiraneto/nginx-e-spring-boot-ecfb9575433e)
 * <b> TDD com Spring Boot </b> - [Artigo](https://medium.com/@josevieiraneto/tdd-com-spring-boot-b5bf7ec725e#.fxnyxvffw)
+* <b> Spring Boot Scaffold </b> - [Artigo](https://medium.com/@josevieiraneto/spring-boot-scaffold-cli-587045fb9902#.nlef01nm8)
 
 
 
