@@ -13,6 +13,7 @@ Alguns artigos utilizando Spring Boot
 * <b> Nginx e Spring Boot </b> - [Artigo](https://medium.com/@josevieiraneto/nginx-e-spring-boot-ecfb9575433e)
 * <b> TDD com Spring Boot </b> - [Artigo](https://medium.com/@josevieiraneto/tdd-com-spring-boot-b5bf7ec725e#.fxnyxvffw)
 * <b> Spring Boot Scaffold </b> - [Artigo](https://medium.com/@josevieiraneto/spring-boot-scaffold-cli-587045fb9902#.nlef01nm8)
+* <b> Integração Contínua </b> - [Artigo](https://medium.com/@josevieiraneto/integra%C3%A7%C3%A3o-cont%C3%ADnua-com-spring-boot-37b30935e953#.y9hgnk6p2)
 
 
 
